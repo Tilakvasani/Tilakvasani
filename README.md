@@ -60,7 +60,7 @@ tilak = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tilakvasani&theme=tokyonight&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tilakvasani&theme=tokyonight&no-frame=true&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
