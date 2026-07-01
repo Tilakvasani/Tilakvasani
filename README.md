@@ -59,12 +59,7 @@ tilak = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tilakvasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Tilakvasani&theme=tokyonight&hide_border=true&border_radius=6&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilakvasani&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" />
 </div>
 
 ---
@@ -143,6 +138,8 @@ tilak = {
 
 [![web_app_test](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=web_app_test&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/web_app_test)
 [![ps5](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=ps5&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/ps5)
+[![docForge_AI](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=docForge_AI&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/docForge_AI)
+[![whatsappchatbot](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=whatsappchatbot&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/whatsappchatbot.git)
 
 </div>
 
