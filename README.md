@@ -56,11 +56,20 @@ tilak = {
 
 ---
 
-## GitHub Trophies
+## GitHub Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tilakvasani&theme=tokyonight&no-frame=true&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilakvasani&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tilakvasani&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tilakvasani&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tilakvasani&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tilakvasani&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
