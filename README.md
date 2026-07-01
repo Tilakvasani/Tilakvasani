@@ -56,6 +56,19 @@ tilak = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tilakvasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Tilakvasani&theme=tokyonight&hide_border=true&border_radius=6&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilakvasani&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" />
+</div>
+
+---
+
 ## GitHub Summary
 
 <div align="center">
@@ -124,32 +137,16 @@ tilak = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tilakvasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tilakvasani&theme=tokyonight&hide_border=true&border_radius=6&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilakvasani&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 [![web_app_test](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=web_app_test&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/web_app_test)
-[![python_Expense_Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=python_Expense_Tracker&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/python_Expense_Tracker)
-
 [![ps5](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=ps5&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/ps5)
-[![insight-hub-backend](https://github-readme-stats.vercel.app/api/pin/?username=Tilakvasani&repo=insight-hub-backend&theme=tokyonight&hide_border=true)](https://github.com/Tilakvasani/insight-hub-backend)
 
 </div>
 
-### Private / Work Projects
+### 🔒 Private / Work Projects
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
@@ -157,6 +154,8 @@ tilak = {
 | **DocForge AI** | Enterprise multi-agent documentation platform — RAG, semantic search, RAGAS evaluation | FastAPI · LangChain · LangGraph · Vector DBs |
 | **WhatsApp AI Bot** | AI-powered support assistant — semantic retrieval, auto ticket creation, context-aware responses | FastAPI · LangChain · RAG · WhatsApp API |
 | **PS5 E-Commerce** | Full-stack e-commerce with Razorpay payments, Google OAuth, AI chatbot, order tracking | React · Node.js · Prisma · PostgreSQL |
+| **python_Expense_Tracker** | Python-based personal expense tracker with analytics and reporting | Python |
+| **insight-hub-backend** | Backend service for AI-powered insight aggregation | FastAPI · PostgreSQL |
 
 ---
 
