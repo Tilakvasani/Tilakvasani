@@ -59,7 +59,7 @@ tilak = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tilakvasani&theme=tokyonight&hide_border=true&border_radius=6&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Tilakvasani&theme=tokyonight&hide_border=true&border_radius=6&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" />
 </div>
 
 ---
