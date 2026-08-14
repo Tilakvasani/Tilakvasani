@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tilak%20Vasani&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=NLP%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Full%20Stack%20Dev&descSize=19&descAlignY=58&descColor=d0aaff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tilak%20Vasani&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Full%20Stack%20Dev&descSize=19&descAlignY=58&descColor=d0aaff"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=NLP+Engineer+%40+Turabit+AI+%F0%9F%A4%96;5%2B+Production+Gen+AI+Systems+Deployed+%F0%9F%9A%80;LangGraph+%7C+LangChain+%7C+RAG+%7C+MCP;FastAPI+%7C+Vector+Databases+%7C+Multi-Agent+AI;Building+things+that+didn%27t+exist+before+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=AI%2FML+Engineer+%40+Softcolon+%F0%9F%A4%96;5%2B+Production+Gen+AI+Systems+Deployed+%F0%9F%9A%80;LangGraph+%7C+LangChain+%7C+RAG+%7C+MCP;FastAPI+%7C+Vector+Databases+%7C+Multi-Agent+AI;Building+things+that+didn%27t+exist+before+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 ```python
 tilak = {
     "name"     : "Tilak Vasani",
-    "role"     : "NLP Engineer @ Turabit AI  |  B.E. CST @ LJIET Ahmedabad",
+    "role"     : "AI/ML Engineer @ Softcolon  |  B.E. CST @ LJIET Ahmedabad",
     "focus"    : ["Agentic AI", "RAG Pipelines", "Multi-Agent Orchestration", "Full Stack"],
     "shipped"  : [
         "MCP Chat         — Universal AI agent connecting 8+ MCP services",
@@ -43,9 +43,9 @@ tilak = {
 
 <table width="100%">
   <tr>
-    <td><b>🏢 NLP Engineer</b></td>
-    <td><b>Turabit AI, Ahmedabad</b></td>
-    <td align="right"><b>Feb 2026 – Present</b></td>
+    <td><b>🏢 AI/ML Engineer</b></td>
+    <td><b>Softcolon, Ahmedabad</b></td>
+    <td align="right"><b>2026 – Present</b></td>
   </tr>
 </table>
 
